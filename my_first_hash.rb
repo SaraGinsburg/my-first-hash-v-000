@@ -1,10 +1,10 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 my_hash = {}
-my_hash[Liba] = 36
-my_hash[Moishe] = 30
-my_hash[Levi] = 26
-my_hash[Dovid] = 23
+my_hash["Liba"] = 36
+my_hash["Moishe"] = 30
+my_hash["Levi"] = 26
+my_hash["Dovid"] = 23
 my_hash
 end
 
